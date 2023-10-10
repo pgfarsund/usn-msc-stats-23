@@ -1,0 +1,197 @@
+country;continent;ecological_footprint_2000;ecological_footprint_2012
+Afghanistan;Asia;NA;NA
+Albania;Europe;1.86;1.8
+Algeria;Africa;1.79;1.6
+Andorra;Europe;NA;NA
+Angola;Africa;0.82;NA
+Antigua and Barbuda;North America;NA;NA
+Argentina;South America;3.79;2.7
+Armenia;Europe;1.16;NA
+Australia;Oceania;8.49;NA
+Austria;Europe;5.45;5.3
+Azerbaijan;Europe;2.18;NA
+Bahamas;North America;NA;NA
+Bahrain;Asia;NA;NA
+Bangladesh;Asia;0.6;0.7
+Barbados;North America;NA;NA
+Belarus;Europe;5.27;NA
+Belgium;Europe;5.88;NA
+Belize;North America;NA;2.1
+Benin;Africa;0.97;NA
+Bhutan;Asia;0.79;NA
+Bolivia (Plurinational State of);South America;1.29;NA
+Bosnia and Herzegovina;Europe;1.29;NA
+Botswana;Africa;1.68;NA
+Brazil;South America;2.6;2.9
+Brunei Darussalam;Asia;NA;NA
+Bulgaria;Europe;3.81;NA
+Burkina Faso;Africa;0.9;NA
+Burundi;Africa;0.75;NA
+Cabo Verde;Africa;NA;NA
+Cambodia;Asia;0.83;NA
+Cameroon;Africa;0.89;NA
+Canada;North America;7.66;NA
+Central African Republic;Africa;1.12;NA
+Chad;Africa;0.75;NA
+Chile;South America;3.39;3.2
+China;Asia;1.84;NA
+Colombia;South America;1.9;1.8
+Comoros;Africa;NA;NA
+Congo;Africa;NA;NA
+Cook Islands;Oceania;NA;NA
+Costa Rica;North America;2.77;2.5
+Croatia;Europe;2.35;NA
+Cuba;North America;2.1;1.9
+Cyprus;Europe;NA;NA
+Czechia;Europe;6.3;NA
+Democratic People's Republic of Korea;Asia;NA;NA
+Democratic Republic of the Congo;Africa;1.15;NA
+Denmark;Europe;9.88;NA
+Djibouti;Africa;NA;NA
+Dominica;North America;1.37;NA
+Dominican Republic;North America;NA;1.4
+Ecuador;South America;2.26;2.4
+Egypt;Africa;1.7;NA
+El Salvador;North America;1.55;2
+Equatorial Guinea;Africa;NA;NA
+Eritrea;Africa;NA;NA
+Estonia;Europe;7.12;NA
+Ethiopia;Africa;0.85;NA
+Fiji;Oceania;NA;NA
+Finland;Europe;8.45;NA
+France;Europe;7.27;4.9
+Gabon;Africa;2.06;NA
+Gambia;Africa;0.99;NA
+Georgia;Europe;NA;NA
+Germany;Europe;6.31;4.6
+Ghana;Africa;1.12;NA
+Greece;Europe;5.58;NA
+Grenada;North America;NA;NA
+Guatemala;North America;1.4;1.8
+Guinea;Africa;0.85;NA
+Guinea-Bissau;Africa;0.8;NA
+Guyana;South America;NA;2.1
+Haiti;North America;0.78;NA
+Honduras;North America;1.43;1.7
+Hungary;Europe;5.01;NA
+Iceland;Europe;6.02;NA
+India;Asia;1.06;0.9
+Indonesia;Asia;1.48;1.1
+Iran (Islamic Republic of);Asia;2.47;NA
+Iraq;Asia;1.73;1.4
+Ireland;Europe;9.43;NA
+Israel;Asia;5.4;4
+Italy;Europe;5.51;NA
+Ivory Coast;Africa;0.95;NA
+Jamaica;North America;2.68;1.7
+Japan;Asia;5.94;4.2
+Jordan;Asia;1.71;2.1
+Kazakhstan;Asia;4.45;NA
+Kenya;Africa;1.15;NA
+Kiribati;Oceania;NA;NA
+Kuwait;Asia;10.31;NA
+Kyrgyzstan;Asia;1.87;1.3
+Lao People's Democratic Republic;Asia;0.91;1.3
+Latvia;Europe;3.74;NA
+Lebanon;Asia;3.19;NA
+Lesotho;Africa;NA;NA
+Liberia;Africa;1.16;NA
+Libya;Africa;4.36;NA
+Liechtenstein;Europe;NA;NA
+Lithuania;Europe;4.76;NA
+Luxembourg;Europe;NA;NA
+Madagascar;Africa;0.93;1.2
+Malawi;Africa;0.87;NA
+Malaysia;Asia;3.68;NA
+Maldives;Asia;NA;NA
+Mali;Africa;0.86;NA
+Malta;Europe;NA;NA
+Marshall Islands;Oceania;NA;NA
+Mauritania;Africa;1.22;NA
+Mauritius;Africa;NA;NA
+Mexico;North America;2.69;3.3
+Micronesia (Federated States of);Oceania;NA;NA
+Monaco;Europe;NA;NA
+Mongolia;Asia;4.3;NA
+Montenegro;Europe;NA;NA
+Morocco;Africa;1.56;1.3
+Mozambique;Africa;0.76;NA
+Myanmar;Asia;1.07;NA
+Namibia;Africa;0.66;NA
+Nauru;Oceania;NA;NA
+Nepal;Asia;1.01;NA
+Netherlands;Europe;5.75;NA
+New Zealand;Oceania;9.54;4.3
+Nicaragua;North America;1.26;1.6
+Niger;Africa;0.97;NA
+Nigeria;Africa;1.31;NA
+Niue;Oceania;NA;NA
+Norway;Europe;6.13;4.8
+Oman;Asia;3.39;NA
+Pakistan;Asia;1.09;0.8
+Palau;Oceania;NA;NA
+Panama;North America;2.35;3
+Papua New Guinea;Oceania;1.4;NA
+Paraguay;South America;2.84;NA
+Peru;South America;1.33;2
+Philippines;Asia;1.42;1
+Poland;Europe;5.4;NA
+Portugal;Europe;4.99;NA
+Qatar;Asia;NA;NA
+Republic of Korea;Asia;5.6;NA
+Republic of Moldova;Europe;2.47;2.1
+Romania;Europe;3.49;NA
+Russian Federation;Asia;5.36;NA
+Rwanda;Africa;0.9;NA
+Saint Kitts and Nevis;North America;NA;NA
+Saint Lucia;North America;NA;NA
+Saint Vincent and the Grenadines;North America;NA;NA
+Samoa;Oceania;NA;NA
+San Marino;Europe;NA;NA
+Sao Tome and Principe;Africa;NA;NA
+Saudi Arabia;Asia;6.15;NA
+Senegal;Africa;1.06;NA
+Serbia;Europe;NA;NA
+Seychelles;Africa;NA;NA
+Sierra Leone;Africa;0.73;NA
+Singapore;Asia;NA;NA
+Slovakia;Europe;3.94;NA
+Slovenia;Europe;5.4;NA
+Solomon Islands;Oceania;NA;NA
+Somalia;Africa;0.97;NA
+South Africa;Africa;4.04;NA
+South Sudan;Africa;NA;NA
+Spain;Europe;5.5;NA
+Sri Lanka;Asia;0.95;1.2
+Sudan;Africa;1.14;NA
+Suriname;South America;NA;NA
+Swaziland;Africa;NA;NA
+Sweden;Europe;7.53;NA
+Switzerland;Europe;6.63;5
+Syrian Arab Republic;Asia;2.56;1.5
+Tajikistan;Asia;0.9;0.9
+Thailand;Asia;2.7;2.4
+The former Yugoslav republic of Macedonia;Europe;NA;NA
+Timor-Leste;Asia;NA;NA
+Togo;Africa;0.82;NA
+Tonga;Oceania;NA;NA
+Trinidad and Tobago;North America;2.43;NA
+Tunisia;Africa;2.27;1.8
+Turkey;Asia;2.73;2.6
+Turkmenistan;Asia;3.62;NA
+Tuvalu;Oceania;NA;NA
+Uganda;Africa;0.88;NA
+Ukraine;Europe;4.76;NA
+United Arab Emirates;Asia;15.99;NA
+United Kingdom of Great Britain and Northern Ireland;Europe;6.29;4.7
+United Republic of Tanzania;Africa;NA;NA
+United States of America;North America;12.22;NA
+Uruguay;South America;4.91;NA
+Uzbekistan;Asia;2.65;NA
+Vanuatu;Oceania;NA;NA
+Vatican City;Europe;NA;NA
+Venezuela (Bolivarian Republic of);South America;2.88;3
+Viet Nam;Asia;0.95;1.4
+Yemen;Asia;NA;NA
+Zambia;Africa;1.21;NA
+Zimbabwe;Africa;1.45;NA
